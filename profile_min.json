@@ -27,14 +27,13 @@
         {"name": "golang"},
         {"name": "dep"},
         {"name": "ruby"},
+        {"name": "ruby2.devkit"},
         {"name": "sysinternals.fireeye"},
-        {"name": "processhacker.flare"},
         {"name": "7zip"},
         {
             "name": "notepadplusplus",
             "args": "--x86"
         },
-        {"name": "notepadplusplus-textfx.fireeye"},
-        {"name": "nirlauncher.fireeye"}
+        {"name": "notepadplusplus-textfx.fireeye"}
     ]
 }
