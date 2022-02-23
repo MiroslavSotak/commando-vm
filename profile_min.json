@@ -27,7 +27,6 @@
         {"name": "golang"},
         {"name": "dep"},
         {"name": "ruby"},
-        {"name": "ruby2.devkit"},
         {"name": "sysinternals.fireeye"},
         {"name": "7zip"},
         {
